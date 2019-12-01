@@ -1,0 +1,89 @@
+#home {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin: 10px;
+    text-align: center;
+    background-image: url(waves.jpeg);
+    color: white !important;
+    text-shadow: 2px 2px rgb(124, 108, 108) !important;
+}
+
+.container {
+    width: 1300px !important;
+}
+
+.reviews {
+    background-color: rgb(95, 169, 187);
+    width: 75%;
+    padding: 10px;
+    text-align: center;
+    margin: 10px 162.5px;
+    font-weight: bold;
+    
+}
+
+#body {
+    background-color: rgb(233, 227, 208);
+    font-family: 'Raleway', sans-serif;
+}
+
+#aboutbutton {
+    background: rgb(151, 107, 107);
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    color: rgb(231, 224, 224) ;
+}
+
+.buttonjumbo {
+    color: white !important;
+    font-weight: bold;
+}
+
+#toursbutton {
+    margin: 10px 162.5px;
+    width: 75%;
+    background: rgb(81, 185, 71);
+    height: 50px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+
+
+}
+
+#aboutsection {
+    width: 900px !important;
+    text-align:center;
+    color: black;
+    
+}
+
+#contactinfo {
+    text-align: center;
+    width: 900px;
+}
+
+table {
+    
+    width: 700px;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+   
+}
+
+th {
+    font-size: 2em;
+
+}
+
+td {
+    font-size: 1.5em;
+}
+
+#disclaimer {
+    text-align: center;
+}
